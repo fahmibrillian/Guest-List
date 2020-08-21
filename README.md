@@ -1,5 +1,4 @@
-# creative-cards
-
+# Guest List App
 > A Vue.Js Project
 
 ## Build Setup
